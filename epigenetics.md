@@ -49,3 +49,55 @@
 - **Transcriptional enhancer factor**: A trans-factor that binds to enhancer elements to activate transcription. Examples of transcriptional enhancer factors include the E2F family of proteins and the AP-1 transcription factor complex.
 - **Transcriptional elongation factor**: A trans-factor that is involved in the regulation of transcriptional elongation, which is the process of synthesizing RNA from a DNA template. Examples of transcriptional elongation factors include the positive transcription elongation factor b (P-TEFb) and the elongation factor SPT6.
 - **Transcriptional repressor**: A trans-factor that binds to specific cis-elements to inhibit transcription. Examples of transcriptional repressors include the Krüppel-like zinc finger proteins and the Groucho/TLE family of proteins.
+
+# CpG islands
+
+### What?
+
+![](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2023-04-29-232006.png)
+
+- CpG islands (CGIs) are regions of the genome that contain a large number of CpG dinucleotide repeats. In mammalian genomes, CpG islands usually extend for **300–3000 base pairs**. They are located **within and close to sites of about 40% of mammalian gene promoters.**
+- CpG islands are regions of DNA that are rich in CpG dinucleotides, which are cytosine nucleotides followed by guanine nucleotides. CpG islands play an important role in gene regulation, as they are often located near gene promoters and can affect gene expression.
+
+- Aberrant methylation of CpG islands has been implicated in a number of diseases, including cancer. **In cancer cells**, **CpG islands near tumor suppressor genes can become hypermethylated**, leading to the inactivation of these genes and the promotion of tumor growth.
+- Cytosines in CpG dinucleotides can be methylated to form **5-methylcytosines**. Enzymes that add a methyl group are called **DNA methyltransferases**. In mammals, 70% to 80% of CpG cytosines are methylated. Methylated cytosines often mutate to thymines.
+- In humans, about **70% of promoters** located near the transcription start site of a gene (proximal promoters) contain a CpG island.
+
+
+
+
+
+
+
+### How to regulate?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
