@@ -12,7 +12,7 @@
 
 - **cis-elements** are DNA sequences that are located on the same strand of DNA as a gene, and they regulate the transcription of that gene. Cis-elements can be located upstream (5') or downstream (3') of the gene, or even within the gene itself. 
 
-- Cis-regulatory elements, such as promoters, enhancers, and silencers, are regions of non-coding DNA, which regulate the transcription of nearby genes
+- **Cis-regulatory elements,** such as promoters, enhancers, and silencers, are regions of non-coding DNA, which regulate the transcription of nearby genes
 
   - **DNA-binding domain**: A cis-element that is recognized by DNA-binding proteins, such as transcription factors and chromatin modifiers. Examples of DNA-binding domains include the zinc finger domain, the helix-turn-helix domain, and the leucine zipper domain.
   - **Epigenetic marks**: Cis-elements that are not DNA sequences, but rather chemical modifications of DNA or histone proteins that can affect gene expression. For example, DNA methylation is a common epigenetic mark that can silence gene expression by recruiting repressive trans-factors.
@@ -26,11 +26,10 @@
   - **RNA polymerase II C-terminal domain**: A cis-element that is located at the carboxy-terminal end of the RNA polymerase II subunit and is involved in the regulation of transcriptional elongation and termination.
   - **Polycomb response element**: A cis-element that is recognized by polycomb group proteins to establish and maintain gene silencing during development and differentiation.
   - **RNA-binding protein motif**: A cis-element that is recognized by RNA-binding proteins to regulate RNA processing, stability, and translation. Examples of RNA-binding protein motifs include the AU-rich element (ARE) and the GU-rich element (GRE).
-  - 
 
 - **Trans-factors** are molecules that bind to cis-elements and regulate gene expression. These molecules can include transcription factors, RNA-binding proteins, and other regulatory proteins. Trans-factors can bind to cis-elements located near the gene, or they can bind to cis-elements located far away on the same chromosome, or even on a different chromosome. 
 
--  trans-regulatory factors regulate (or modify) the expression of distant genes by combining with their target sequences
+-  **trans-regulatory factors** regulate (or modify) the expression of distant genes by combining with their target sequences
 
   - **Alternative splicing factor**: A trans-factor that can regulate alternative splicing of pre-mRNA, which is the process of generating multiple mRNA isoforms from a single gene. Examples of alternative splicing factors include the serine/arginine-rich (SR) proteins and the heterogeneous nuclear ribonucleoproteins (hnRNPs).
 
